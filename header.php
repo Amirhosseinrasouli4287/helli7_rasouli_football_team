@@ -9,7 +9,7 @@
 <body>
 <header class="main-header">
     <div class="red-logo">
-        <img src="download.jpg">
+        <img src="logot.png">
     </div>
 </header>
 
