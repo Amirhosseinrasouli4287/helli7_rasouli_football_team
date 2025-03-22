@@ -11,6 +11,16 @@
     <div class="red-logo">
         <img src="logot.png">
     </div>
+
+    <h2>Football Team</h2>
+    <nav>
+        <ul>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="#">News</a></li>
+            <li><a href="#">Gallery</a></li>
+            <li><a href="#">Team</a></li>
+        </ul>
+    </nav>
 </header>
 
     
