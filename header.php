@@ -7,6 +7,10 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
+<header class="main-header">
+    <div class="red-logo">
+        <img src="download.jpg">
+    </div>
+</header>
 
     

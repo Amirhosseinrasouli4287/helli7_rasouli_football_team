@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.red-logo {
+    background-color: #d71920;
+    padding: 10px;
+}
+.red-logo img {
+    width: 50px;
+}
