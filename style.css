@@ -2,11 +2,11 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     color: white;
-    background: url('stadium.jpg') no-repeat center center/cover;
+    
   }
   
   .header {
-    background-color: rgba(0, 0, 0, 0.6);
+    background: url('stadium.png') no-repeat center center/cover;
     min-height: 100vh;
     display: flex;
     flex-direction: column;
@@ -43,4 +43,28 @@ body {
     color: white;
   }
 
+  .hero {
+    text-align: center;
+    padding: 100px 20px;
+  }
   
+  .hero h1 {
+    font-size: 48px;
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    max-width: 600px;
+    margin: 0 auto 30px;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  
+  .btn {
+    background-color: red;
+    color: white;
+    padding: 12px 25px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+  }
